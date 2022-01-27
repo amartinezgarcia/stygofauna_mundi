@@ -2,10 +2,7 @@
 
 # About Stygofauna Mundi {-}
 
-```{r logobig, echo=FALSE, out.width="100%", out.height="100%", fig.align='center'}
-knitr::include_graphics("Image/Stygofauna_mundi_logo.png")
-
-```
+<img src = "http://github.com/amrtinezgarcia/stygofauna_mundi/Stygofauna_mundi_logo.png">
 
 
 ## The importance of *the neglected* {-}
