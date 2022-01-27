@@ -1,15 +1,15 @@
 # stygofauna_mundi
 
-# About Stygofauna Mundi {-}
+# About Stygofauna Mundi
 
-<img src = "http://github.com/amrtinezgarcia/stygofauna_mundi/Stygofauna_mundi_logo.png">
-
-
-## The importance of *the neglected* {-}
+<img src = "https://github.com/amartinezgarcia/stygofauna_mundi/blob/main/Stygofauna_mundi_logo.png">
 
 
+## The importance of *the neglected*
 
-## Goals of Stygofauna Mundi {-}
+
+
+## Goals of Stygofauna Mundi
 
 There are many databases out there, but Stygofauna Mundi is build in a way that you can freely access and comment on all the information. In this spirit, we have initially define the following goals:
 
@@ -24,7 +24,7 @@ There are many databases out there, but Stygofauna Mundi is build in a way that 
 5. Share all the scripts, information, and sources in a fully open code framework.
 
 
-## Acknoledgements {-}
+## Acknoledgements
 
 This project is hosted by the [Molecular Ecology Group](http://www.meg.irsa.cnr.it/) at the [Water Research Institute in Verbania](http://www.irsa.cnr.it/index.php/ita/) (National Research Council of Italy).
 
