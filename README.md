@@ -1,5 +1,3 @@
-# stygofauna_mundi
-
 # About Stygofauna Mundi
 
 <img src = "https://github.com/amartinezgarcia/stygofauna_mundi/blob/main/Stygofauna_mundi_logo.png">
